@@ -4,7 +4,7 @@ import view.commands.Gender;
 
 public class Main {
     public static void main(String[] args) {
-//        View view = new ConsoleUI();
-//        view.start();
+        View view = new ConsoleUI();
+        view.start();
     }
 }
